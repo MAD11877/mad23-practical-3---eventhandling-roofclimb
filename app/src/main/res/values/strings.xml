@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
+    <string name="btn1">Follow</string>
+    <string name="btn2">Message</string>
+    <string name="hello">Hello World</string>
+</resources>
